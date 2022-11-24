@@ -89,5 +89,6 @@ linux>$
 ```
 ## Contributors
 - surafel nigusie
-- Royal-T Jehwo
+- Royal-T Jehwo Timothy 
+- 
 	
