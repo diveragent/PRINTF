@@ -88,5 +88,6 @@ Hello, Holberton is 98.
 linux>$
 ```
 ## Contributors
-- 
-- 
+- surafel nigusie
+- Royal-T Jehwo
+	
